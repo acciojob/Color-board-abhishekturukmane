@@ -2,7 +2,7 @@
 .container{
 	width:500px;
 	
-	background-color:black;
+	background-color:nero;
 	display:flex;
 	flex-flow:wrap;
 	justify-content:space-evenly;
